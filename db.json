@@ -8,12 +8,12 @@
     {
       "id": 2,
       "name": "start server",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 3,
       "name": "Load data into app",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 4,
@@ -24,36 +24,6 @@
       "id": 5,
       "name": "update records",
       "isComplete": false
-    },
-    {
-      "name": "new todos",
-      "isComplete": false,
-      "id": 6
-    },
-    {
-      "name": "other todo",
-      "isComplete": false,
-      "id": 7
-    },
-    {
-      "name": "brush teeths",
-      "isComplete": false,
-      "id": 8
-    },
-    {
-      "name": "a other one",
-      "isComplete": false,
-      "id": 9
-    },
-    {
-      "name": "1",
-      "isComplete": false,
-      "id": 10
-    },
-    {
-      "name": "2",
-      "isComplete": false,
-      "id": 11
     }
   ]
 }
